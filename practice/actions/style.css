@@ -1,0 +1,21 @@
+.center{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-between;
+        background-color: activeborder;
+    }
+    .menu{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-between;
+        width: 350px;
+    }
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-between;
+        background-color: activecaption
+    }
